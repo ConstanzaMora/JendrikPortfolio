@@ -31,3 +31,5 @@ This is the personal portfolio website of Jendrik Illner, a 3D and rendering pro
 ## Contact
 
 For any inquiries email me: constanza.morasan@gmail.com
+
+Jendrik Illner - Rendering Programmer Portfolio © 2025 by Constanza Mora is licensed under CC BY-NC-SA 4.0 
